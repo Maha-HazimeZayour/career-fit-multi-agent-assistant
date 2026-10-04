@@ -1,0 +1,21 @@
+Python Backend Engineer (Mid-level)
+CedarStack
+Location: Remote (Middle East and Europe)
+Employment type: Full time
+
+About the team
+CedarStack builds booking software for clinics. Our backend team owns the APIs used by more than 400 clinics.
+
+Responsibilities
+- Design and build REST APIs in Python
+- Improve the performance of our PostgreSQL databases
+- Deploy and monitor services on Kubernetes
+- Review code written by other engineers
+
+Requirements
+- 3 or more years of professional experience in Python backend development (required)
+- Django or FastAPI (required)
+- PostgreSQL (required)
+- Experience running services on Kubernetes in production (required)
+- An AWS certification (preferred)
+- Experience with CI/CD pipelines (preferred)

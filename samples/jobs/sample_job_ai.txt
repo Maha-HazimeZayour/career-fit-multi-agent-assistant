@@ -1,0 +1,13 @@
+Junior AI Engineer (Remote)
+Acme AI GmbH
+
+We are looking for a Junior AI Engineer to join our team.
+
+Requirements:
+- Strong Python programming skills (required)
+- Experience with machine learning frameworks such as PyTorch or TensorFlow (required)
+- Experience building LLM applications with LangChain (preferred)
+- Knowledge of SQL (required)
+- Full-time position, on-site in Zurich 2 days per week (required)
+- Professional experience deploying models to production (preferred)
+- Good English communication (required)

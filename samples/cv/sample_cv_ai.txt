@@ -1,0 +1,23 @@
+Sara Haddad
+Email: sara.haddad@example.com | Location: Zurich, Switzerland
+
+SUMMARY
+Master's student in Artificial Intelligence looking for an entry-level AI role.
+
+EDUCATION
+MSc Artificial Intelligence, University of Applied Sciences (expected graduation June 2027)
+BSc Computer Science, Lebanese University, 2022
+
+PROJECTS
+- Movie recommender (course project): built with Python and scikit-learn.
+- Chatbot prototype (course project): used LangChain and a local LLM, basic level.
+- Image classifier (course project): trained a small CNN with PyTorch.
+
+EXPERIENCE
+IT Support Intern, Cedar Tech, Beirut (3 months, 2021): helped staff with laptops and accounts.
+
+SKILLS
+Python (intermediate), SQL (basic), Git, PyTorch (basic), LangChain (basic)
+
+LANGUAGES
+Arabic (native), English (fluent), German (A2)

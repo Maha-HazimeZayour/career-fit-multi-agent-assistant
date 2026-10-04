@@ -1,0 +1,54 @@
+
+=== AI Career Fit, Resume Tailoring, and Job Search Assistant ===
+
+What would you like the system to do?
+> 
+Enter the path to the candidate CV:
+> 
+Enter the path to the job posting TXT file or press Enter to paste it manually:
+> 
+Running multi-agent workflow...
+
+
+=== FINAL RESPONSE ===
+
+CAREER FIT ANALYSIS
+
+- Bachelor's degree in economics, statistics, computer science or a similar field
+  Match: strong_match
+  The candidate holds a BSc in Economics.
+- SQL for reporting
+  Match: strong_match
+  The candidate wrote basic SQL queries for store reports.
+- Python or R for data analysis
+  Match: strong_match
+  The candidate performed customer churn analysis using Python.
+- At least 1 year of professional experience in data analysis
+  Match: gap
+  The candidate does not show at least one year of professional data analysis experience.
+- Fluent English
+  Match: strong_match
+  The candidate explicitly lists English proficiency at C1 level.
+- Power BI
+  Match: gap
+  There is no evidence provided regarding experience with Power BI.
+- German at B2 level
+  Match: gap
+  The candidate's language skills do not include German.
+
+MAIN GAPS
+
+- At least 1 year of professional experience in data analysis
+  Gap type: professional_experience
+  The candidate does not show at least one year of professional data analysis experience.
+- Power BI
+  Gap type: evidence
+  There is no evidence provided regarding experience with Power BI.
+- German at B2 level
+  Gap type: evidence
+  The candidate's language skills do not include German.
+
+RUN TRACE
+Path: input_guard -> candidate -> job -> fit -> fit_response
+Time: 83.75s (slowest: candidate, 32.64s)
+Repair attempts: 0 | Validation: n/a

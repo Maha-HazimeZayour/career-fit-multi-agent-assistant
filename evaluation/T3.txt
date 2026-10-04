@@ -1,0 +1,54 @@
+
+=== AI Career Fit, Resume Tailoring, and Job Search Assistant ===
+
+What would you like the system to do?
+> 
+Enter the path to the candidate CV:
+> 
+Enter the path to the job posting TXT file or press Enter to paste it manually:
+> 
+Running multi-agent workflow...
+
+
+=== FINAL RESPONSE ===
+
+CAREER FIT ANALYSIS
+
+- Degree in Medical Laboratory Technology
+  Match: strong_match
+  The candidate holds a degree in Medical Laboratory Technology.
+- At least 2 years of laboratory experience
+  Match: strong_match
+  The candidate has stated 2 years of experience as a medical laboratory technologist.
+- Experience with a laboratory information system (LIS)
+  Match: strong_match
+  The candidate has professional experience entering results into an LIS.
+- Valid laboratory licence
+  Match: gap
+  No evidence of a valid laboratory license was provided.
+- Knowledge of quality control procedures
+  Match: strong_match
+  The candidate followed quality control and safety procedures in their role.
+- Experience with molecular diagnostics
+  Match: gap
+  There is no evidence of experience with molecular diagnostics.
+- Full-time, on-site
+  Match: gap
+  The CV does not state the employment type or location.
+
+MAIN GAPS
+
+- Valid laboratory licence
+  Gap type: evidence
+  No evidence of a valid laboratory license was provided.
+- Experience with molecular diagnostics
+  Gap type: professional_experience
+  There is no evidence of experience with molecular diagnostics.
+- Full-time, on-site
+  Gap type: evidence
+  The CV does not state the employment type or location.
+
+RUN TRACE
+Path: input_guard -> candidate -> job -> fit -> fit_response
+Time: 85.88s (slowest: fit, 35.11s)
+Repair attempts: 0 | Validation: n/a

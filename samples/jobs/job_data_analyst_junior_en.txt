@@ -1,0 +1,22 @@
+Junior Data Analyst
+Nordwind Commerce
+Location: Remote (Europe, Middle East and Africa)
+Employment type: Full time
+Level: Entry-level
+
+About the role
+Nordwind Commerce runs online shops in twelve countries. You will join the analytics team and help store managers understand their weekly sales.
+
+Responsibilities
+- Build and update weekly sales dashboards
+- Clean and combine data from the shop and warehouse systems
+- Present findings to store managers in short reports
+
+Requirements
+- Bachelor's degree in economics, statistics, computer science or a similar field (required)
+- SQL for reporting (required)
+- Python or R for data analysis (required)
+- At least 1 year of professional experience in data analysis (required)
+- Fluent English (required)
+- Power BI (nice to have)
+- German at B2 level (nice to have)

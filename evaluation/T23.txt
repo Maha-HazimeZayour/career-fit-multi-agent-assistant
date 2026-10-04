@@ -1,0 +1,50 @@
+
+=== AI Career Fit, Resume Tailoring, and Job Search Assistant ===
+
+What would you like the system to do?
+> 
+Running multi-agent workflow...
+
+
+=== FINAL RESPONSE ===
+
+LIVE JOB SEARCH RESULTS
+Remote jobs from Himalayas (himalayas.app). Location shows where the employer hires from.
+
+Preferences applied: entry level | country: Germany
+
+1. (Junior) Growth Analyst (m/w/d)
+Company: Dr. Ansay
+Location: Germany
+Level: Entry-level
+URL: https://himalayas.app/companies/dr-ansay/jobs/junior-growth-analyst-m-w-d
+
+2. Teaching Assistant: Supply Chain Analyst
+Company: Correlation One
+Location: Australia, Canada, France, Germany, India, United Kingdom, United States
+Level: Entry-level
+URL: https://himalayas.app/companies/correlation-one/jobs/teaching-assistant-supply-chain-analyst
+
+3. EDC Data Solution Specialist (Data Manager)
+Company: Flex Databases
+Location: Worldwide
+Level: Mid-level, Entry-level
+URL: https://himalayas.app/companies/flex-databases/jobs/edc-data-solution-specialist-data-manager
+
+4. Weiterbildung: Data Science & Business Analytics (IHK) (m/w/d) - Remote
+Company: DataSmart Point
+Location: Germany
+Level: Entry-level
+URL: https://himalayas.app/companies/datasmart-point/jobs/weiterbildung-data-science-business-analytics-ihk-m-w-d-remote
+
+5. Data Scientist Intern
+Company: Ensemble Health Partners
+Location: Australia, Canada, Denmark, Germany, Ireland, Netherlands, Norway, Sweden, United Kingdom, United States
+Level: Entry-level
+URL: https://himalayas.app/companies/ensemble-health-partners/jobs/data-scientist-intern
+
+
+RUN TRACE
+Path: input_guard -> job_search
+Time: 73.11s (slowest: job_search, 73.11s)
+Repair attempts: 0 | Validation: n/a

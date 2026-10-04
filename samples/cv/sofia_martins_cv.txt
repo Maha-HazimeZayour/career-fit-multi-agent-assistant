@@ -1,0 +1,37 @@
+Sofia Martins
+Geneva, Switzerland
+
+PROFILE
+Master’s student in Data Science with academic and internship experience in data analysis.
+
+EDUCATION
+MSc Data Science, University of Geneva
+2025–2027, in progress
+
+BSc Economics
+University of Lisbon, 2022–2025
+
+EXPERIENCE
+Data Analytics Intern — Alpine Retail SA
+Geneva | June 2026–August 2026
+- Cleaned and prepared sales datasets in Excel and Python.
+- Created Tableau dashboards for weekly sales reporting.
+- Assisted the analytics team with basic SQL queries.
+- Presented internship findings to the team.
+
+ACADEMIC PROJECTS
+Customer Churn Prediction
+- Built a classification model in Python using pandas and scikit-learn.
+- Compared logistic regression and random forest models.
+
+SKILLS
+Python — intermediate
+SQL — basic
+Excel — advanced
+Tableau — intermediate
+scikit-learn — academic project experience
+
+LANGUAGES
+Portuguese — native
+English — C1
+French — B1

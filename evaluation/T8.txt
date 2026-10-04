@@ -1,0 +1,49 @@
+
+=== AI Career Fit, Resume Tailoring, and Job Search Assistant ===
+
+What would you like the system to do?
+> 
+Enter the path to the candidate CV:
+> 
+Enter the path to the job posting TXT file or press Enter to paste it manually:
+> 
+Running multi-agent workflow...
+
+
+=== FINAL RESPONSE ===
+
+Nadia Karam
+Email: nadia.karam@example.com
+
+PROFILE
+Medical Laboratory Technologist with 2 years of experience in sample processing, quality control, and laboratory information systems.
+
+EXPERIENCE
+Laboratory Technologist, Central Clinic (2023 - present)
+- Prepared and processed blood samples.
+- Entered results into the laboratory information system (LIS) under supervision.
+- Followed quality control and safety procedures.
+
+Laboratory Trainee, Regional Hospital (6 months, 2022)
+- Observed sample analysis and assisted with sample labeling.
+
+SKILLS
+Sample processing
+LIS data entry (basic)
+Quality control
+Teamwork
+
+EDUCATION
+BSc Medical Laboratory Technology, 2022
+
+CERTIFICATIONS
+Laboratory Safety Certificate, 2022
+
+LANGUAGES
+Arabic (native)
+English (B2)
+
+RUN TRACE
+Path: input_guard -> candidate -> job -> fit -> resume -> validator -> validated
+Time: 127.6s (slowest: fit, 44.62s)
+Repair attempts: 0 | Validation: pass

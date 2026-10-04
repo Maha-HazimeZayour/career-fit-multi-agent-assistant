@@ -1,0 +1,32 @@
+
+=== AI Career Fit, Resume Tailoring, and Job Search Assistant ===
+
+What would you like the system to do?
+> 
+Enter the path to the candidate CV:
+> 
+Enter the path to the job posting TXT file or press Enter to paste it manually:
+> 
+Running multi-agent workflow...
+
+
+=== FINAL RESPONSE ===
+
+Dear Hiring Team,
+
+I am writing to express my interest in the Marketing Coordinator (Entry-level) position at Brightloop Studio. As a graduate in Marketing and Communication with experience in social media content management, I am eager to apply my skills to support your team's marketing goals.
+
+My professional experience includes preparing the Instagram editorial calendar for three clients, demonstrating my ability to manage social media channels. Furthermore, I have practical experience in content creation, including writing post captions and copywriting, and I am skilled in preparing monthly reports using Meta Business Suite. I also possess knowledge of Google Analytics (base).
+
+Academically, I hold a degree in Marketing and Communication. I am proficient in English at a B2 level, and I am keen to leverage my background in content strategy and digital reporting to contribute to Brightloop Studio.
+
+I am enthusiastic about the opportunity to join Brightloop Studio and am available to discuss how my experience aligns with the needs of this role. Thank you for your time and consideration.
+
+Sincerely,
+
+Sofia Moretti
+
+RUN TRACE
+Path: input_guard -> candidate -> job -> fit -> cover_letter -> validator -> validated
+Time: 158.05s (slowest: fit, 56.27s)
+Repair attempts: 0 | Validation: pass

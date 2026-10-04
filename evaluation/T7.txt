@@ -1,0 +1,62 @@
+
+=== AI Career Fit, Resume Tailoring, and Job Search Assistant ===
+
+What would you like the system to do?
+> 
+Enter the path to the candidate CV:
+> 
+Running multi-agent workflow...
+
+
+=== JOB SEARCH RESULTS ===
+
+LIVE JOB SEARCH RESULTS
+Remote jobs from Himalayas (himalayas.app). Location shows where the employer hires from.
+
+Search based on CV: Medical laboratory technologist
+Preferences applied: mid level
+
+1. Clinical Laboratory Technologist - FISH Dry Lab, Remote
+Company: NeoGenomics Laboratories
+Location: United States
+Level: Mid-level
+URL: https://himalayas.app/companies/neogenomics-laboratories/jobs/clinical-laboratory-technologist-fish-dry-lab-remote
+
+2. Cytogenetic Technologist
+Company: HNL Lab Medicine
+Location: United States
+Level: Mid-level
+URL: https://himalayas.app/companies/hnl-lab-medicine/jobs/cytogenetic-technologist
+
+3. Cytogenetic (FISH) Analyst - US Remote
+Company: Labcorp
+Location: United States
+Level: Mid-level
+URL: https://himalayas.app/companies/labcorp/jobs/cytogenetic-fish-analyst-us-remote-1996470106
+
+
+Select a job number for the cover letter or press Enter to stop:
+> 
+Generating cover letter...
+
+
+=== COVER LETTER ===
+
+Dear Hiring Team,
+
+I am writing to express my interest in the Clinical Laboratory Technologist - FISH Dry Lab, Remote position at NeoGenomics Laboratories. As a Medical Laboratory Technologist with two years of experience, I possess the foundational knowledge and practical experience necessary to contribute effectively to your team.
+
+I hold a Bachelor's Degree in Medical Laboratory Technology, which provides me with the academic background required for this role. My professional experience includes preparing and processing blood samples and analyzing specimens using approved testing procedures. Furthermore, I have experience following quality control and safety procedures in the laboratory setting.
+
+In my previous roles, I have utilized laboratory information systems (LIS) to enter results under supervision. I am eager to apply my skills in specimen analysis and laboratory operations to the specialized environment of FISH Dry Lab at NeoGenomics Laboratories. I am confident that my background aligns well with the requirements of this position.
+
+Thank you for considering my application. I look forward to the opportunity to discuss how my experience as a Medical Laboratory Technologist can benefit NeoGenomics Laboratories.
+
+Sincerely,
+
+Nadia Karam
+
+RUN TRACE
+Path: input_guard -> candidate -> job_search_query -> job_search -> select_job -> job -> fit -> cover_letter -> validator -> validated
+Time: 226.94s (slowest: fit, 87.79s)
+Repair attempts: 0 | Validation: pass

@@ -1,0 +1,50 @@
+
+=== AI Career Fit, Resume Tailoring, and Job Search Assistant ===
+
+What would you like the system to do?
+> 
+Enter the path to the candidate CV:
+> 
+Enter the path to the job posting TXT file or press Enter to paste it manually:
+> 
+Running multi-agent workflow...
+
+
+=== FINAL RESPONSE ===
+
+CAREER FIT & GAP SUMMARY
+
+- Experience with classroom technology: No evidence of experience with classroom technology is provided.
+- Working knowledge of German: The candidate's language skills do not include German.
+
+TAILORED RESUME
+
+Rania Saad
+Email: rania.saad@example.com
+
+PROFILE
+Primary school teacher with 3 years of classroom experience, holding a BA in Primary Education and a Teaching Diploma.
+
+EXPERIENCE
+Primary School Teacher, Hope School (2022 - present)
+- Taught mathematics and English to grade 3 (25 students).
+- Prepared weekly lesson plans and marked homework.
+- Met parents twice a year to discuss student progress.
+
+Teaching Assistant, Little Stars School (2021 - 2022)
+- Supported the class teacher.
+- Assisted students with reading.
+
+EDUCATION
+BA Primary Education, 2021
+Teaching Diploma, 2022
+
+LANGUAGES
+Arabic (native)
+English (C1)
+French (B1)
+
+RUN TRACE
+Path: input_guard -> candidate -> job -> fit -> resume -> validator -> validated
+Time: 105.74s (slowest: candidate, 28.09s)
+Repair attempts: 0 | Validation: pass

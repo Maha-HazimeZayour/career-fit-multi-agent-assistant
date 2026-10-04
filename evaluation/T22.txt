@@ -1,0 +1,9 @@
+
+=== AI Career Fit, Resume Tailoring, and Job Search Assistant ===
+
+What would you like the system to do?
+> 
+Enter the path to the candidate CV:
+> 
+Enter the path to the job posting TXT file or press Enter to paste it manually:
+> The job posting must be a .txt file. If you entered the CV here by mistake, start again and give the job posting file.

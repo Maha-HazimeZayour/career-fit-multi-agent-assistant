@@ -1,0 +1,10 @@
+langgraph>=0.4
+langchain-core
+langchain-ollama
+pydantic>=2
+python-dotenv
+pdfplumber
+python-docx
+requests
+pytest
+mcp[cli]

@@ -1,0 +1,60 @@
+
+=== AI Career Fit, Resume Tailoring, and Job Search Assistant ===
+
+What would you like the system to do?
+> 
+Enter the path to the candidate CV:
+> 
+Enter the path to the job posting TXT file or press Enter to paste it manually:
+> 
+Running multi-agent workflow...
+
+
+=== FINAL RESPONSE ===
+
+CAREER FIT & GAP SUMMARY
+
+- Improve the performance of our PostgreSQL databases: The candidate designed schemas but there is no evidence of improving database performance.
+- Deploy and monitor services on Kubernetes: There is no evidence of experience deploying or monitoring services on Kubernetes.
+- Review code written by other engineers: The candidate's evidence does not mention reviewing code written by other engineers.
+- Experience running services on Kubernetes in production: There is no evidence provided regarding experience with Kubernetes or production deployment.
+- AWS certification: The candidate is preparing for the certification but has not yet obtained it.
+- Experience with CI/CD pipelines: There is no evidence provided regarding experience with CI/CD pipelines.
+
+TAILORED RESUME
+
+Omar Al-Khatib
+Backend Developer
+Amman, Jordan | omar.alkhatib@example.com
+
+PROFILE
+Backend developer with four years of experience building web APIs in Python.
+
+SKILLS
+Python, Django, PostgreSQL, REST APIs, pytest, Git, JavaScript
+Docker (intermediate), AWS (basic)
+
+EXPERIENCE
+Backend Developer, Wadi Tech, Amman - January 2022 to present
+- Built REST APIs in Python and Django for a logistics platform
+- Designed PostgreSQL database schemas and wrote migrations
+- Packaged services with Docker for the staging environment
+- Wrote unit tests with pytest
+
+Junior Web Developer, Bluefig Agency, Amman - August 2020 to December 2021
+- Maintained PHP and JavaScript websites for small business clients
+- Fixed bugs reported by clients
+
+EDUCATION
+BSc Computer Science, Petra Valley University, Amman - 2020 (completed)
+
+CERTIFICATIONS
+AWS Certified Cloud Practitioner - in preparation, exam planned for 2027
+
+LANGUAGES
+Arabic (native), English (fluent)
+
+RUN TRACE
+Path: input_guard -> candidate -> job -> fit -> resume -> validator -> validated
+Time: 156.83s (slowest: fit, 57.09s)
+Repair attempts: 0 | Validation: pass

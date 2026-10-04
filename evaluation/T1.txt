@@ -1,0 +1,5 @@
+
+=== AI Career Fit, Resume Tailoring, and Job Search Assistant ===
+
+What would you like the system to do?
+> The request could not be matched to a supported workflow. Ask for fit analysis, resume tailoring, a cover letter, job search, or CV-based job search.

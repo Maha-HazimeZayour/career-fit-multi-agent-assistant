@@ -1,0 +1,50 @@
+
+=== AI Career Fit, Resume Tailoring, and Job Search Assistant ===
+
+What would you like the system to do?
+> 
+Running multi-agent workflow...
+
+
+=== FINAL RESPONSE ===
+
+LIVE JOB SEARCH RESULTS
+Remote jobs from Himalayas (himalayas.app). Location shows where the employer hires from.
+
+Preferences applied: entry level | internship preferred
+
+1. Influencer Marketing Internship (Winter/Spring 2027)
+Company: Brilliant PR & Marketing
+Location: United States
+Level: Entry-level
+URL: https://himalayas.app/companies/brilliant-pr-marketing/jobs/influencer-marketing-internship-winter-spring-2027
+
+2. Intern - Marketing Operations
+Company: Acxiom
+Location: United States
+Level: Entry-level
+URL: https://himalayas.app/companies/acxiom/jobs/intern-marketing-operations
+
+3. Digital Marketing Intern
+Company: DTC Canada
+Location: United States
+Level: Entry-level
+URL: https://himalayas.app/companies/dtc-canada/jobs/digital-marketing-intern
+
+4. Marketing Intern
+Company: ELIXIR MULTINATIONAL
+Location: United States
+Level: Entry-level
+URL: https://himalayas.app/companies/elixir-multinational/jobs/marketing-intern
+
+5. Digital Marketing Intern
+Company: Abhyaz
+Location: United States
+Level: Entry-level
+URL: https://himalayas.app/companies/abhyaz/jobs/digital-marketing-intern-4700515040
+
+
+RUN TRACE
+Path: input_guard -> job_search
+Time: 58.91s (slowest: job_search, 58.91s)
+Repair attempts: 0 | Validation: n/a

@@ -1,0 +1,30 @@
+Omar Al-Khatib
+Backend Developer
+Amman, Jordan | omar.alkhatib@example.com
+
+PROFILE
+Backend developer with four years of experience building web APIs in Python.
+
+EDUCATION
+BSc Computer Science, Petra Valley University, Amman - 2020 (completed)
+
+EXPERIENCE
+Backend Developer, Wadi Tech, Amman - January 2022 to present
+- Built REST APIs in Python and Django for a logistics platform
+- Designed PostgreSQL database schemas and wrote migrations
+- Wrote unit tests with pytest
+- Packaged services with Docker for the staging environment
+
+Junior Web Developer, Bluefig Agency, Amman - August 2020 to December 2021
+- Maintained PHP and JavaScript websites for small business clients
+- Fixed bugs reported by clients
+
+SKILLS
+Python, Django, PostgreSQL, REST APIs, pytest, Git, JavaScript
+Docker (intermediate), AWS (basic)
+
+CERTIFICATIONS
+AWS Certified Cloud Practitioner - in preparation, exam planned for 2027
+
+LANGUAGES
+Arabic (native), English (fluent)

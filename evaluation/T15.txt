@@ -1,0 +1,32 @@
+
+=== AI Career Fit, Resume Tailoring, and Job Search Assistant ===
+
+What would you like the system to do?
+> 
+Enter the path to the candidate CV:
+> 
+Enter the path to the job posting TXT file or press Enter to paste it manually:
+> 
+Running multi-agent workflow...
+
+
+=== FINAL RESPONSE ===
+
+Dear Hiring Team,
+
+أكتب إليكم لأعبر عن اهتمامي بوظيفة ممرض/ممرضة رعاية صحية عن بُعد في مجموعة الواحة الطبية. بصفتي ممرضة مسجلة بخبرة مكثفة في وحدات العناية المركزة والأقسام الطبية، أمتلك الخلفية السريرية اللازمة لتلبية متطلبات هذا الدور.
+
+لدي خبرة سريرية في بيئات الرعاية الصحية المختلفة، بما يتوافق مع متطلبات الوظيفة. أمتلك خبرة في تقييم المرضى، وأقوم بتوثيق الرعاية في نظام السجلات الصحية الإلكترونية، كما لدي خبرة في تثقيف المرضى وعائلاتهم حول الرعاية بعد الخروج من المستشفى. بالإضافة إلى ذلك، أنا متمكنة من اللغتين العربية (اللغة الأم) والإنجليزية (C1).
+
+أمتلك شهادة دعم الحياة الأساسي (BLS) سارية المفعول. وفيما يتعلق بالترخيص، فإن طلب ترخيص هيئة الصحة بدبي (DHA) قيد الإنجاز حاليًا. أتطلع إلى تطبيق مهاراتي في بيئة العمل عن بُعد.
+
+أتطلع إلى فرصة مناقشة كيف يمكن لخبرتي في التمريض أن تساهم في نجاح مجموعة الواحة الطبية. شكرًا لوقتكم واهتمامكم.
+
+Sincerely,
+
+Rania Mansour
+
+RUN TRACE
+Path: input_guard -> candidate -> job -> fit -> cover_letter -> validator -> cover_letter -> validator -> validated
+Time: 321.51s (slowest: validator, 132.83s)
+Repair attempts: 1 | Validation: pass

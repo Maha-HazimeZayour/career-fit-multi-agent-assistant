@@ -1,0 +1,48 @@
+
+=== AI Career Fit, Resume Tailoring, and Job Search Assistant ===
+
+What would you like the system to do?
+> 
+Running multi-agent workflow...
+
+
+=== FINAL RESPONSE ===
+
+LIVE JOB SEARCH RESULTS
+Remote jobs from Himalayas (himalayas.app). Location shows where the employer hires from.
+
+1. Growth Marketing Associate - Prediction Markets
+Company: Shift Markets
+Location: Canada
+Level: Mid-level
+URL: https://himalayas.app/companies/shift-markets/jobs/growth-marketing-associate-prediction-markets-95888768
+
+2. Marketing Strategist
+Company: RedRover Sales & Marketing Strategy
+Location: United States
+Level: Senior
+URL: https://himalayas.app/companies/redrovercompany/jobs/marketing-strategist
+
+3. Marketing Manager
+Company: Markets Group
+Location: United States
+Level: Manager
+URL: https://himalayas.app/companies/markets-group/jobs/marketing-manager
+
+4. Marketing Director
+Company: Marketing Collection
+Location: United States
+Level: Director
+URL: https://himalayas.app/companies/marketing-collection/jobs/marketing-director
+
+5. Digital Marketing Lead
+Company: Digita Global Marketing Ltd.
+Location: United States
+Level: Manager
+URL: https://himalayas.app/companies/digita-global-marketing-ltd/jobs/digital-marketing-lead
+
+
+RUN TRACE
+Path: input_guard -> job_search
+Time: 54.71s (slowest: job_search, 54.71s)
+Repair attempts: 0 | Validation: n/a

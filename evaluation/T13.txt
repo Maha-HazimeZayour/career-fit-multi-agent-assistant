@@ -1,0 +1,51 @@
+
+=== AI Career Fit, Resume Tailoring, and Job Search Assistant ===
+
+What would you like the system to do?
+> 
+Enter the path to the candidate CV:
+> 
+Enter the path to the job posting TXT file or press Enter to paste it manually:
+> 
+Running multi-agent workflow...
+
+
+=== FINAL RESPONSE ===
+
+Layla Haddad | layla.haddad@example.com | Beirut, Lebanon
+
+Profile
+Business analytics student with experience in retail data reporting and foundational skills in data analysis, including basic SQL querying and Tableau visualization. Possesses intermediate skills in Python and a strong academic background in Economics.
+
+Education
+MSc Business Analytics, Cedar University, Beirut - in progress, expected graduation June 2027
+BSc Economics, Cedar University, Beirut - 2025 (completed)
+
+Experience
+Data Analytics Intern, Souk Retail Group, Beirut | Jun 2026 - Aug 2026
+* Cleaned weekly sales data in Excel.
+* Wrote basic SQL queries to generate store reports.
+* Built two Tableau dashboards in collaboration with the team.
+
+Teaching Assistant, Statistics 101, university | Sep 2024 - May 2025
+* Graded assignments for the course.
+* Ran a weekly Excel lab session for 30 students.
+
+Projects
+Customer churn analysis in Python with pandas and scikit-learn (course project, 2026)
+Survey of student spending habits analysed in Excel (course project, 2024)
+
+Skills
+Python (intermediate), SQL (basic), Excel (advanced), Tableau (basic), pandas, descriptive statistics
+
+Languages
+Arabic (native), English (C1), French (B1)
+
+NOTES
+
+- The request asks for stronger claims than a CV can support. Documents only use facts supported by your CV, so that part of the request was ignored.
+
+RUN TRACE
+Path: input_guard -> candidate -> job -> fit -> resume -> validator -> resume -> validator -> validated
+Time: 224.41s (slowest: fit, 54.08s)
+Repair attempts: 1 | Validation: pass

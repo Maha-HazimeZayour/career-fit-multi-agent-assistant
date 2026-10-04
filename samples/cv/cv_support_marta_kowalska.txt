@@ -1,0 +1,23 @@
+Marta Kowalska
+Kraków, Poland | marta.kowalska@example.com
+
+PROFILE
+Customer support specialist in a software company, working in English and Polish.
+
+EXPERIENCE
+Customer Support Specialist, Vistula Apps, Kraków - February 2024 to present
+- Answer 40 to 60 customer tickets per day in Zendesk, in English and Polish
+- Wrote 15 help-centre articles for the mobile app
+- Report bugs to the product team in Jira
+
+Retail Sales Assistant, Galeria Książek, Kraków - June 2021 to December 2023
+- Advised customers and handled payments and returns
+
+EDUCATION
+BA English Philology, Vistula Humanities College, Kraków - 2023 (completed)
+
+SKILLS
+Zendesk, Notion, Salesforce (basic), Jira (basic)
+
+LANGUAGES
+Polish (native), English (C1), German (B1)

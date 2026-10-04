@@ -1,0 +1,41 @@
+
+=== AI Career Fit, Resume Tailoring, and Job Search Assistant ===
+
+What would you like the system to do?
+> 
+Enter the path to the candidate CV:
+> 
+Running multi-agent workflow...
+
+
+=== FINAL RESPONSE ===
+
+LIVE JOB SEARCH RESULTS
+Remote jobs from Himalayas (himalayas.app). Location shows where the employer hires from.
+
+Search based on CV: Medical laboratory technologist
+Preferences applied: mid level
+
+1. Clinical Laboratory Technologist - FISH Dry Lab, Remote
+Company: NeoGenomics Laboratories
+Location: United States
+Level: Mid-level
+URL: https://himalayas.app/companies/neogenomics-laboratories/jobs/clinical-laboratory-technologist-fish-dry-lab-remote
+
+2. Cytogenetic Technologist
+Company: HNL Lab Medicine
+Location: United States
+Level: Mid-level
+URL: https://himalayas.app/companies/hnl-lab-medicine/jobs/cytogenetic-technologist
+
+3. Cytogenetic (FISH) Analyst - US Remote
+Company: Labcorp
+Location: United States
+Level: Mid-level
+URL: https://himalayas.app/companies/labcorp/jobs/cytogenetic-fish-analyst-us-remote-1996470106
+
+
+RUN TRACE
+Path: input_guard -> candidate -> job_search_query -> job_search
+Time: 64.03s (slowest: candidate, 29.83s)
+Repair attempts: 0 | Validation: n/a

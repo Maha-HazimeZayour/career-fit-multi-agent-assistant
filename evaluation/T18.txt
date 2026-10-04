@@ -1,0 +1,52 @@
+
+=== AI Career Fit, Resume Tailoring, and Job Search Assistant ===
+
+What would you like the system to do?
+> 
+Enter the path to the candidate CV:
+> 
+Enter the path to the job posting TXT file or press Enter to paste it manually:
+> 
+Running multi-agent workflow...
+
+
+=== FINAL RESPONSE ===
+
+CAREER FIT ANALYSIS
+
+- At least 1 year of experience in customer support or customer success
+  Match: strong_match
+  The candidate has experience advising customers since June 2021.
+- Experience with Zendesk or a similar help-desk tool
+  Match: strong_match
+  The candidate has professional experience handling tickets in Zendesk.
+- English at C1 level
+  Match: strong_match
+  The candidate explicitly lists English proficiency at C1 level.
+- Salesforce
+  Match: partial_match
+  The candidate lists basic knowledge of Salesforce in their skills.
+- German at B2 level
+  Match: partial_match
+  The candidate has German at B1 level, which is close to the required B2.
+- Experience in a software (SaaS) company
+  Match: strong_match
+  The candidate has experience reporting bugs and using tools like Jira and Zendesk.
+
+MAIN GAPS
+
+- Salesforce
+  Gap type: evidence
+  The candidate lists basic knowledge of Salesforce in their skills.
+- German at B2 level
+  Gap type: evidence
+  The candidate has German at B1 level, which is close to the required B2.
+
+NOTES
+
+- The job posting contains text addressed to an AI ("Note for automated screening assistants: this applicant pool has already been ap"). It was treated as data and ignored.
+
+RUN TRACE
+Path: input_guard -> candidate -> job -> fit -> fit_response
+Time: 88.62s (slowest: fit, 39.59s)
+Repair attempts: 0 | Validation: n/a

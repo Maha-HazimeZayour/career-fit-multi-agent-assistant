@@ -1,0 +1,50 @@
+
+=== AI Career Fit, Resume Tailoring, and Job Search Assistant ===
+
+What would you like the system to do?
+> 
+Running multi-agent workflow...
+
+
+=== FINAL RESPONSE ===
+
+LIVE JOB SEARCH RESULTS
+Remote jobs from Himalayas (himalayas.app). Location shows where the employer hires from.
+
+Preferences applied: entry level
+
+1. Junior Data Analyst
+Company: Careerswift
+Location: United States
+Level: Entry-level
+URL: https://himalayas.app/companies/careerswift/jobs/junior-data-analyst
+
+2. BAP - Data Analyst
+Company: Binance
+Location: Hong Kong
+Level: Entry-level
+URL: https://himalayas.app/companies/binance/jobs/bap-data-analyst
+
+3. Data Analyst (Entry-Level)
+Company: Recidiviz
+Location: United States
+Level: Entry-level
+URL: https://himalayas.app/companies/recidiviz/jobs/data-analyst-entry-level
+
+4. Remote Sports Data Analyst / Performance Research Assistant
+Company: Evolution Sports Group
+Location: United States
+Level: Entry-level, Mid-level
+URL: https://himalayas.app/companies/evolution-sports-group/jobs/remote-sports-data-analyst-performance-research-assistant
+
+5. DATA GOVERNANCE ANALYST
+Company: TheHiveCareers
+Location: India
+Level: Entry-level
+URL: https://himalayas.app/companies/thehivecareers/jobs/data-governance-analyst
+
+
+RUN TRACE
+Path: input_guard -> job_search
+Time: 56.94s (slowest: job_search, 56.94s)
+Repair attempts: 0 | Validation: n/a

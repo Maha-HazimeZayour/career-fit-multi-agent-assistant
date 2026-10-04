@@ -1,0 +1,44 @@
+Eva Keller
+Zurich, Switzerland
+eva.keller@example.com
+
+PROFILE
+Master's student in Business Analytics with practical experience in reporting, data quality, dashboards, and process documentation. Interested in part-time working-student roles where analytics, AI, or risk/compliance work can be developed further.
+
+EDUCATION
+MSc Business Analytics, University of Zurich
+Expected graduation: June 2027
+
+BSc Business Information Systems, ZHAW
+Completed: 2025
+
+EXPERIENCE
+Working Student – Reporting Support, Alpine Services AG, Zurich
+September 2025 – Present | 40%
+- Prepare recurring management reports and check source-data quality.
+- Build and maintain Power BI dashboards for internal teams.
+- Use Excel and basic SQL queries to investigate reporting inconsistencies.
+- Document KPI definitions, data sources, and recurring reporting processes.
+- Support colleagues with ad-hoc analysis and presentation preparation.
+
+ACADEMIC PROJECT
+Responsible AI & Risk Dashboard
+- Built a Power BI prototype using anonymized sample data.
+- Created simple risk indicators and documented assumptions.
+- Compared several AI-governance frameworks in a university project.
+- Presented findings in English to a student project group.
+
+SKILLS
+Power BI – intermediate
+Excel – good
+SQL – basic to intermediate
+Python – basic
+Data visualization – intermediate
+Data quality – practical experience
+Process documentation – practical experience
+AI governance – academic exposure
+
+LANGUAGES
+German – native
+English – C1
+French – B1
