@@ -52,7 +52,7 @@ Requests that are not about careers are refused before any CV is asked for.
 
 ## Setup
 
-    git clone https://github.com/YOUR-USERNAME/career-fit-multi-agent-assistant.git
+    git clone https://github.com/Maha-HazimeZayour/career-fit-multi-agent-assistant.git
     cd career-fit-multi-agent-assistant
     python -m venv .venv
     source .venv/bin/activate
