@@ -1,7 +1,7 @@
 # Career Fit Multi-Agent Assistant
 
 Capstone project for AAI-6270 Agentic AI, Lebanese American University (LAU).
-Author: Maha Hazime-Zayour
+Maha Hazime-Zayour
 
 A multi-agent assistant that helps students and early-career job seekers apply for jobs
 without exaggerating. From a CV and a job posting (or a search request) it produces a fit
